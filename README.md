@@ -1,5 +1,5 @@
 # Leann Alhashishi 👩🏽‍💻
-Hi! I'm Leann, a freshman computer science student. I'm always looking for new projects to work on so I can improve my skills!
+Hi! I'm Leann, a sophomore computer science student. I'm always looking for new projects to work on so I can improve my skills!
 
 
 
