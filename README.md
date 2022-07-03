@@ -12,7 +12,7 @@ I want to learn HTML, JavaScript, and other more front-end languages.
 
 
 ## You can find me... 🏷
-[my email!](leannalhashishi@gmail.com)
+[my email](leannalhashishi@gmail.com)
 
 [my linkedin](https://www.linkedin.com/in/leann-alhashishi-7b6087218/)
 
