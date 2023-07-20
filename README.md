@@ -2,13 +2,12 @@
 Hi! I'm Leann, a junior computer science student. I'm always looking for new projects to work on so I can improve my skills.
 
 
-
 ## My skills... 📋
-I'm profecient in Python, C++, and Java. However, I'm still actively practicing them.
+I'm proficient in Python, C++, and Java. However, I'm still actively practicing them.
 
 
 ## What I want to work on... ❕
-I want to learn HTML, JavaScript, and other more front-end languages.
+I'd like to familiarize myself with some new languages such as Rust and Ruby.
 
 
 ## You can find me... 🏷
