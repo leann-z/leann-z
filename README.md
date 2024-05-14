@@ -1,13 +1,13 @@
 # Leann Alhashishi 👩🏽‍💻
-Hi! I'm Leann, a junior computer science student. I'm always looking for new projects to work on so I can improve my skills.
+Hi! I'm Leann, a junior computer science student. I'm always looking for new projects to work on so I can improve.
 
 
 ## My skills... 📋
-I'm proficient in Python, C++, and Java. However, I'm still actively practicing them.
+My favorite languages to code in are Python and C. I also enjoy JS from time to time...
 
 
 ## What I want to work on... ❕
-I'd like to familiarize myself with some new languages such as Rust and Ruby.
+I'd like to familiarize myself with Rust and Ruby.
 
 
 ## You can find me... 🏷
