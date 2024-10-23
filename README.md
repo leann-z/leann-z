@@ -1,5 +1,5 @@
 # Leann Alhashishi 👩🏽‍💻
-Hi! I'm Leann, a junior computer science student. I'm always looking for new projects to work on so I can improve.
+Hi! I'm Leann, a senior computer science student. I'm always looking for new projects to work on so I can improve.
 
 
 ## My skills... 📋
